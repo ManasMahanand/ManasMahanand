@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ManasMahanand
-- 👀 I’m interested in Web Development and Software Development in General
-- 🌱 I’m currently learning Game Development and WebAssembly to quench my interest and passion
-- 💞️ I’m looking to collaborate on Web Development projects involving MERN stack, but am open to any Web Dev projects.
-- 📫 You can reach mailing me on robot14.mahanand@gmail.com
+- 👀 I’m a Passionate software developer, working on all sorts of stuff. Ranging from Embedded Programs, to Full stack web apps.
+- 🌱 Currently learning Computer Networking.
+- 📫 You can reach mailing me on manas@nightowlsoftware.in
 
 <!---
 ManasMahanand/ManasMahanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
