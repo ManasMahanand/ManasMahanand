@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManasMahanand
 - 👀 I’m a Passionate software developer, working on all sorts of stuff. Ranging from Embedded Programs, to Full stack web apps.
 - 🌱 Currently learning Computer Networking.
-- 📫 You can reach mailing me on manas@nightowlsoftware.in
+- 📫 You can reach mailing me on manasmahanand@proton.me
 
 <!---
 ManasMahanand/ManasMahanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
